@@ -23,4 +23,4 @@ async function sendMessage(subject, message, times) {
 }
 
 // Contoh penggunaan untuk mengirim pesan 20000000 kali
-sendMessage("ANJING", "ANJINGGGGGGGGGGG.", 20000000);
+sendMessage("Fuckk", "FUCKYOUUUUU.", 20000000);
